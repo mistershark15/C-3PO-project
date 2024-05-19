@@ -1,10 +1,10 @@
 
-  ____     _____ ____   ___    ____            _           _   
- / ___|   |___ /|  _ \ / _ \  |  _ \ _ __ ___ (_) ___  ___| |_ 
-| |   _____ |_ \| |_) | | | | | |_) | '__/ _ \| |/ _ \/ __| __|
-| |__|_____|__) |  __/| |_| | |  __/| | | (_) | |  __/ (__| |_ 
- \____|   |____/|_|    \___/  |_|   |_|  \___// |\___|\___|\__|
-                                            |__/                                      
+     ____     _____ ____   ___    ____            _           _   
+    / ___|   |___ /|  _ \ / _ \  |  _ \ _ __ ___ (_) ___  ___| |_ 
+    | |   _____ |_ \| |_) | | | | | |_) | '__/ _ \| |/ _ \/ __| __|
+    | |__|_____|__) |  __/| |_| | |  __/| | | (_) | |  __/ (__| |_ 
+     \____|   |____/|_|    \___/  |_|   |_|  \___// |\___|\___|\__|
+                                                 |__/                                      
 C-3PO is an interactive Python-based chatbot designed to provide information and assistance to users through voice or text input. It leverages natural language processing (NLP) techniques and web scraping to understand and respond to user queries.
 
 ## Features
