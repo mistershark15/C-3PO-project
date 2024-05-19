@@ -15,3 +15,19 @@ To get started with C-3PO, follow these steps:
 
    ```bash
    git clone https://github.com/yourusername/C-3PO.git
+Navigate to the project directory:
+
+bash
+Zkopírovat kód
+cd C-3PO
+Install the required dependencies:
+
+bash
+Zkopírovat kód
+pip install -r requirements.txt
+Run the main script:
+
+bash
+Zkopírovat kód
+python main.py
+Start interacting with C-3PO! You can type or speak your queries, and C-3PO will respond accordingly.
