@@ -30,4 +30,5 @@ Run the main script:
 bash
 
 python main.py
+
 Start interacting with C-3PO! You can type or speak your queries, and C-3PO will respond accordingly.
