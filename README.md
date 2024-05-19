@@ -14,7 +14,7 @@ To get started with C-3PO, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/C-3PO.git
+   git clone https://github.com/mistershark15/C-3PO-project.git
 Navigate to the project directory:
 
 bash
